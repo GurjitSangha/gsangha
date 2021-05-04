@@ -3,4 +3,4 @@ title: "Sky"
 date: "2021-03-31"
 ---
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Working across the Sky News and Sports estate, including but not limited to the Sky Sports UK and Germany websites, the Sports and News APIs, the platforms they are hosted on. These applications have millions of active users, so delivering the highest quality components and features is required at all times

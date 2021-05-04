@@ -7,7 +7,6 @@ import Links from "../components/Links";
 export async function getStaticProps() {
   const projects = await getProjectData();
   const history = await getHistoryData();
-  console.log(history);
   return {
     props: {
       projects,
@@ -38,7 +37,7 @@ export default function Home({ projects, history }) {
             Gurjit Sangha
           </span>
         </h1>
-        <p className="text-2xl">I Develop Things</p>
+        <p className="text-2xl">I'm a Software Developer based in Leeds, UK</p>
       </div>
 
       <Projects projects={projects} />
